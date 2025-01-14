@@ -7,9 +7,9 @@ In game you can use various commands such as : /friends add <player> | /friends
 
 This plugin also use Bundle features, allowing to make Language files to translate plugin's messages.
 
+## Archived
 This is my first public plugin, this serves more of a display project rathen than a commercial project.
-
-Use this plugin at your own risk, the plugin might encounter bugs. It should work tho. 
+Use this plugin at your own risk, you might encounter bugs.
 
 ## Permission
 | Permission Node | Default | Description |

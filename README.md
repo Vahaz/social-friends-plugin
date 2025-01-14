@@ -5,6 +5,8 @@ This plugin save player's friends and friends request into a "[player's UUID].ym
 It also save player's last connection date.
 In game you can use various commands such as : /friends add <player> | /friends 
 
+This plugin also use Bundle features, allowing to make Language files to translate plugin's messages.
+
 This is my first public plugin, this serves more of a display project rathen than a commercial project.
 
 Use this plugin at your own risk, the plugin might encounter bugs. It should work tho. 
